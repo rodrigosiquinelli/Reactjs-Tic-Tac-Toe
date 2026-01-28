@@ -1,4 +1,4 @@
-# This is My First React Application
+# This is My First Reactjs Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
